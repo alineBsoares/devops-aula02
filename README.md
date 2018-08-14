@@ -1,5 +1,6 @@
 # devops-aula02
 devops-aula02
 Angelina Jolie
-Jeniffer Aniston
+Jeniffer Laurence
 Jessica Rabit
+Luan Nascimento
