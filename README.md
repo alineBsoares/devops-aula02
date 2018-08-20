@@ -4,3 +4,4 @@ Angelina Jolie
 Jeniffer Laurence
 Jessica Rabit
 Luan Nascimento
+Chica da Silva
